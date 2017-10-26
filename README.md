@@ -13,12 +13,14 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 
 ## Notebooks
 
-* **kiel_familienstand**: Family status of the citizens of Kiel, Germany.
-* **kiel_straftaten**: Criminal offenses in Kiel, Germany.
-* **kiel_unfaelle**: Traffic accidents in Kiel, Germany.
-* **kiel_abfall**: Garbage in Kiel, Germany.
-* **kiel_bevoelkerung**: Population in Kiel, Germany.
+* **kiel_familienstand**: Family status of the citizens of Kiel.
+* **kiel_straftaten**: Criminal offenses
+* **kiel_unfaelle**: Traffic accidents
+* **kiel_abfall**: Garbage
+* **kiel_bevoelkerung**: Population
+* **kiel_fahrerfluchten** Hit-and-Run offenses (1989-2016).
 
 ## Changelog
 
 * 26/10/2017: Added a list of notebooks in this readme file.
+* 26/10/2017: Added *kiel_fahrerfluchten*
