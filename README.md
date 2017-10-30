@@ -8,7 +8,7 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 
 ## Requirements
 
-* [Jupyter Notebook](****)
+* [Jupyter Notebook](http://jupyter.org)
 * [Python](https://python.org) 3.5 or above
 
 ## Notebooks
@@ -18,9 +18,11 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * **kiel_unfaelle**: Traffic accidents
 * **kiel_abfall**: Garbage
 * **kiel_bevoelkerung**: Population
-* **kiel_fahrerfluchten** Hit-and-Run offenses (1989-2016).
+* **kiel_fahrerfluchten** Hit-and-Run offenses
+* **kiel_arbeitslose** Number of Unemployed
 
 ## Changelog
 
 * 26/10/2017: Added a list of notebooks in this readme file.
 * 26/10/2017: Added *kiel_fahrerfluchten*
+* 30/10/2017: Added *kiel_arbeitslose*
