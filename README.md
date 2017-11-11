@@ -19,10 +19,11 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * **kiel_abfall**: Garbage
 * **kiel_bevoelkerung**: Population
 * **kiel_fahrerfluchten** Hit-and-Run offenses
-* **kiel_arbeitslose** Number of Unemployed
+* **kiel_arbeitslose_xlrd** and **kiel_arbeitslose_pandas** Number of Unemployed
 
 ## Changelog
 
 * 26/10/2017: Added a list of notebooks in this readme file.
 * 26/10/2017: Added *kiel_fahrerfluchten*
 * 30/10/2017: Added *kiel_arbeitslose*
+* 10/11/2017: Renamed *kiel_arbeitslose* to *kiel_arbeitslose_xlrd* and added *kiel_arbeitslose_pandas*
