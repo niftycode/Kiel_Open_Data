@@ -21,6 +21,7 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * **kiel_fahrerfluchten** Hit-and-Run offenses
 * **kiel_arbeitslose_xlrd** and **kiel_arbeitslose_pandas** Number of Unemployed
 * **kiel_new_residents**: New residents (1987-2016)
+* **kiel_number_of_cars**: The number of cars in Kiel (1970-2018)
 
 ## Changelog
 
@@ -29,3 +30,4 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * 30.10.2017: Added *kiel_arbeitslose*
 * 10.11.2017: Renamed *kiel_arbeitslose* to *kiel_arbeitslose_xlrd* and added *kiel_arbeitslose_pandas*
 * 29.07.2018: Added *kiel_new_residents*
+* 16.09.2018: Added *kiel_number_of_cars*
