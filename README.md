@@ -11,6 +11,12 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * [Jupyter Notebook](http://jupyter.org)
 * [Python](https://python.org) 3.5 or above
 
+You should also install the following modules:
+
+* matplotlib
+* numpy
+* pandas
+
 ## Notebooks
 
 * **kiel_familienstand**: Family status of the citizens of Kiel.
@@ -19,9 +25,10 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * **kiel_abfall**: Garbage
 * **kiel_bevoelkerung**: Population
 * **kiel_fahrerfluchten** Hit-and-Run offenses
-* **kiel_arbeitslose_xlrd** and **kiel_arbeitslose_pandas** Number of Unemployed
+* **kiel_arbeitslose_xlrd** and **kiel_arbeitslose_pandas** Number of unemployed
 * **kiel_new_residents**: New residents (1987-2016)
 * **kiel_number_of_cars**: The number of cars in Kiel (1970-2018)
+* **kiel_cargo_handling**: Handling of cargo in Kiel (Port of Kiel)
 
 ## Changelog
 
@@ -31,3 +38,4 @@ A collection of [Jupyter Notebooks](https://jupyter.org/) showing visualized ope
 * 10.11.2017: Renamed *kiel_arbeitslose* to *kiel_arbeitslose_xlrd* and added *kiel_arbeitslose_pandas*
 * 29.07.2018: Added *kiel_new_residents*
 * 16.09.2018: Added *kiel_number_of_cars*
+* 29.11.2018: Added *kiel_cargo_handling*
