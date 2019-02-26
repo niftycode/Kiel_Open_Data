@@ -29,6 +29,7 @@ You should also install the following modules:
 * **kiel_new_residents**: New residents (1987-2016)
 * **kiel_number_of_cars**: The number of cars in Kiel (1970-2018)
 * **kiel_cargo_handling**: Handling of cargo in Kiel (Port of Kiel)
+* **kiel_ehescheidungen**: Divorces in Kiel
 
 ## Changelog
 
@@ -39,3 +40,4 @@ You should also install the following modules:
 * 29.07.2018: Added *kiel_new_residents*
 * 16.09.2018: Added *kiel_number_of_cars*
 * 29.11.2018: Added *kiel_cargo_handling*
+* 26.02.2019: Added *kiel_ehescheidungen*
