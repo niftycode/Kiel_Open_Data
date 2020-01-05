@@ -17,6 +17,7 @@ You should also install the following modules:
 * matplotlib
 * numpy
 * pandas
+* requests
 
 ## Notebooks
 
@@ -32,6 +33,7 @@ You should also install the following modules:
 * **kiel_cargo_handling**: Handling of cargo in Kiel (Port of Kiel)
 * **kiel_ehescheidungen**: Divorces in Kiel
 * **passagiere_schweden**: Passengers to and from Sweden
+* **kiel_bankruptcies**: Bankruptcies in Kiel (1987-2018)
 
 ## Changelog
 
@@ -44,3 +46,4 @@ You should also install the following modules:
 * 29.11.2018: Added *kiel_cargo_handling*
 * 26.02.2019: Added *kiel_ehescheidungen*
 * 10.07.2019: Added *passagiere_schweden*
+* 05.01.2020: Added *kiel_bankruptcies*
