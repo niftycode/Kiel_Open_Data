@@ -34,6 +34,7 @@ You should also install the following modules:
 * **kiel_ehescheidungen**: Divorces in Kiel
 * **passagiere_schweden**: Passengers to and from Sweden
 * **kiel_bankruptcies**: Bankruptcies in Kiel (1987-2018)
+* **kiel_harbour_passengers**: Passenger numbers in the port of Kiel 
 
 ## Changelog
 
@@ -47,3 +48,4 @@ You should also install the following modules:
 * 26.02.2019: Added *kiel_ehescheidungen*
 * 10.07.2019: Added *passagiere_schweden*
 * 05.01.2020: Added *kiel_bankruptcies*
+* 01.02.2021: Added *kiel_harbour_passengers*
