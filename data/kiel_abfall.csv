@@ -1,4 +1,4 @@
-Land;Stadt;Kategorie;Merkmal;Jahr;Haus- und Geschäftsabfall (in to.);sonstiger Abfall (in to.);Abfall gesamt (in to.);Müllheitzwerk (in to.);Deponie (in to.);schadstoffhaltigerr Abfall (in to.);Abfall zur Verwertung (in to.)
+Land;Stadt;Kategorie;Merkmal;Jahr;Haus- und Geschaeftsabfall (in to.);sonstiger Abfall (in to.);Abfall gesamt (in to.);Muellheitzwerk (in to.);Deponie (in to.);schadstoffhaltigerr Abfall (in to.);Abfall zur Verwertung (in to.)
 de-sh;Kiel;umwelt_klima;Abfall in to.;1999;66689;24322;91011;83006;8005;766;50125
 de-sh;Kiel;umwelt_klima;Abfall in to.;2000;64645;17479;82124;62322;19802;797;55826
 de-sh;Kiel;umwelt_klima;Abfall in to.;2001;59162;13473;72635;55110;17525;799;56717
@@ -14,4 +14,9 @@ de-sh;Kiel;umwelt_klima;Abfall in to.;2010;44478;33223;77701;45335;32366;1661;60
 de-sh;Kiel;umwelt_klima;Abfall in to.;2011;44684;34943;79627;45747;33880;2060;60598
 de-sh;Kiel;umwelt_klima;Abfall in to.;2012;43416;27540;70956;44402;26554;1886;58729
 de-sh;Kiel;umwelt_klima;Abfall in to.;2013;42347;30258;72605;42847;29758;1753;60400
-de-sh;Kiel;umwelt_klima;Abfall in to.;2014;42347;k.A.;k.A.;43149;k.A.;1918;66339
+de-sh;Kiel;umwelt_klima;Abfall in to.;2014;42641;k.A.;k.A.;43149;k.A.;1918;66339
+de-sh;Kiel;umwelt_klima;Abfall in to.;2015;43246;k.A.;k.A.;43806;k.A.;1686;64013
+de-sh;Kiel;umwelt_klima;Abfall in to.;2016;42380;k.A.;k.A.;42962;k.A.;1572;63537
+de-sh;Kiel;umwelt_klima;Abfall in to.;2017;41975;k.A.;k.A.;42535;k.A.;1682;64331
+de-sh;Kiel;umwelt_klima;Abfall in to.;2018;41780;k.A.;k.A.;42372;k.A.;k.A.;k.A.
+de-sh;Kiel;umwelt_klima;Abfall in to.;2019;41413;k.A.;k.A.;41978;k.A.;k.A.;k.A.

@@ -38,14 +38,4 @@ You should also install the following modules:
 
 ## Changelog
 
-* 26.10.2017: Added a list of notebooks in this readme file.
-* 26.10.2017: Added *kiel_fahrerfluchten*
-* 30.10.2017: Added *kiel_arbeitslose*
-* 10.11.2017: Renamed *kiel_arbeitslose* to *kiel_arbeitslose_xlrd* and added *kiel_arbeitslose_pandas*
-* 29.07.2018: Added *kiel_new_residents*
-* 16.09.2018: Added *kiel_number_of_cars*
-* 29.11.2018: Added *kiel_cargo_handling*
-* 26.02.2019: Added *kiel_ehescheidungen*
-* 10.07.2019: Added *passagiere_schweden*
-* 05.01.2020: Added *kiel_bankruptcies*
-* 01.02.2021: Added *kiel_harbour_passengers*
+see [CHANGELOG.md](https://github.com/niftycode/Kiel_Open_Data/blob/main/Changelog.md)
