@@ -21,7 +21,7 @@ You should also install the following modules:
 
 ## Notebooks
 
-* **kiel_familienstand**: Family status of the citizens of Kiel.
+* **kiel_familienstand**: Family status of the citizens of Kiel
 * **kiel_straftaten**: Criminal offenses
 * **kiel_unfaelle**: Traffic accidents
 * **kiel_abfall**: Garbage
@@ -34,8 +34,8 @@ You should also install the following modules:
 * **kiel_ehescheidungen**: Divorces in Kiel
 * **passagiere_schweden**: Passengers to and from Sweden
 * **kiel_bankruptcies**: Bankruptcies in Kiel (1987-2018)
-* **kiel_harbour_passengers**: Passenger numbers in the port of Kiel 
+* **kiel_harbour_passengers**: Passenger numbers in the port of Kiel
 
 ## Changelog
 
-see [CHANGELOG.md](https://github.com/niftycode/Kiel_Open_Data/blob/main/Changelog.md)
+see [CHANGELOG.md](https://github.com/niftycode/Kiel_Open_Data/blob/master/Changelog.md)

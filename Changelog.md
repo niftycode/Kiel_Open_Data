@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022-01-22
+
+Update
+
+- kiel_bankruptcies.ipynb
+- kiel_bevoelkerungsentwicklung.ipynb
+- kiel_cargo_handling.ipynb
+- kiel_ehescheidungen.ipynb
+- kiel_fahrerfluchten.ipynb
+- kiel_familienstand.ipynb
+- kiel_harbour_passengers.ipynb
+- kiel_new_residents.ipynb
+- kiel_number_of_cars.ipynb
+- kiel_straftaten.ipynb
+- kiel_unfaelle.ipynb
+- passagiere_schweden.ipynb
+
 ## 2022-01-21
 
 - Create a separate Changelog.md file
