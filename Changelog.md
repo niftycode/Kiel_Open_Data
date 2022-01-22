@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022-01-23
+
+Add new examples:
+
+- kiel_cruise_passengers.ipynb
+- kiel_hotel_overnight_stays.ipynb
+
 ## 2022-01-22
 
 Update
@@ -17,7 +24,7 @@ Update
 - kiel_number_of_cars.ipynb
 - kiel_straftaten.ipynb
 - kiel_unfaelle.ipynb
-- passagiere_schweden.ipynb
+- kiel_passagiere_schweden.ipynb
 
 ## 2022-01-21
 
