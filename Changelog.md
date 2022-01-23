@@ -11,7 +11,7 @@ Add new examples:
 
 ## 2022-01-22
 
-Update
+Update:
 
 - kiel_bankruptcies.ipynb
 - kiel_bevoelkerungsentwicklung.ipynb
