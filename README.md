@@ -35,6 +35,7 @@ You should also install the following modules:
 * **passagiere_schweden**: Passengers to and from Sweden
 * **kiel_bankruptcies**: Bankruptcies in Kiel (1987-2018)
 * **kiel_harbour_passengers**: Passenger numbers in the port of Kiel
+* **kiel_grundsicherung**: Public assistance expenditure (guaranteed minimum pension, 2010-2021)
 
 ## Changelog
 

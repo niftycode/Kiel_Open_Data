@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022-12-07
+
+Add new example: kiel_grundsicherung.ipynb
+
 ## 2022-01-23
 
 Add new examples:
