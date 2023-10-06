@@ -2,3 +2,12 @@
 /.DS_Store
 /.ipynb_checkpoints
 .DS_Store
+.venv
+.idea
+
+
+Jupyter/.ipynb_checkpoints/kiel_familienstand-checkpoint.ipynb
+
+Jupyter/.ipynb_checkpoints/kiel_straftaten-checkpoint.ipynb
+
+Jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb
